@@ -3,14 +3,14 @@
       "year": 2022,
       "races": [
         {
-          "name": "Francorchamps Belgian Grand Prix",
+          "name": "Francorchamps Belgian Grand Prixxxx",
 		  "weekend": 14,
           "date": "2022-08-28",
           "drivers": [
             {
               "fullName": "Max Verstappen",
               "abbrev": "VER",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_ver_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_ver_tel_enhanced.csv"
             },
             {
               "fullName": "Fernando Alonso",
