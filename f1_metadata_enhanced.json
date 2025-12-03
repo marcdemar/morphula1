@@ -3,7 +3,7 @@
       "year": 2022,
       "races": [
         {
-          "name": "Francorchamps Belgian Grand Prixxxx",
+          "name": "Francorchamps Belgian Grand Prix",
 		  "weekend": 14,
           "date": "2022-08-28",
           "drivers": [
@@ -15,92 +15,92 @@
             {
               "fullName": "Fernando Alonso",
               "abbrev": "ALO",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_alo_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_alo_tel_enhanced.csv"
             },			
             {
               "fullName": "Valteri Bottas",
               "abbrev": "BOT",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_bot_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_bot_tel_enhanced.csv"
             },			
             {
-              "fullName": "Pierre Galsy",
+              "fullName": "Pierre Gasly",
               "abbrev": "GAS",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_gas_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_gas_tel_enhanced.csv"
             },
             {
               "fullName": "Lewis Hamilton",
               "abbrev": "HAM",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_ham_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_ham_tel_enhanced.csv"
             },
             {
               "fullName": "Latifi",
               "abbrev": "LAT",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_lat_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_lat_tel_enhanced.csv"
             },			
             {
               "fullName": "Charles Leclerc",
               "abbrev": "LEC",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_lec_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_lec_tel_enhanced.csv"
             },			
             {
               "fullName": "Kevin Magnussen",
               "abbrev": "MAG",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_mag_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_mag_tel_enhanced.csv"
             },
             {
               "fullName": "Mick Shumacher",
               "abbrev": "MSC",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_msc_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_msc_tel_enhanced.csv"
             },
             {
               "fullName": "Lando Norris",
               "abbrev": "NOR",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_nor_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_nor_tel_enhanced.csv"
             },
             {
               "fullName": "Ocon",
               "abbrev": "OCO",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_oco_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_oco_tel_enhanced.csv"
             },
             {
               "fullName": "Sergio Perez",
               "abbrev": "PER",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_per_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_per_tel_enhanced.csv"
             },
             {
               "fullName": "Daniel Ricciardo",
               "abbrev": "RIC",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_ric_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_ric_tel_enhanced.csv"
             },
             {
               "fullName": "George Russell",
               "abbrev": "RUS",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_rus_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_rus_tel_enhanced.csv"
             },
             {
               "fullName": "Carlos Sainz",
               "abbrev": "SAI",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_sai_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_sai_tel_enhanced.csv"
             },
             {
               "fullName": "Lance Stroll",
               "abbrev": "STR",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_str_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_str_tel_enhanced.csv"
             },
             {
               "fullName": "Yuki Tsunoda",
               "abbrev": "TSU",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_tsu_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_tsu_tel_enhanced.csv"
             },
             {
               "fullName": "Vettel",
               "abbrev": "VET",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_vet_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_vet_tel_enhanced.csv"
             },
             {
               "fullName": "Zhou",
               "abbrev": "ZHO",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_zho_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_zho_tel_enhanced.csv"
             },
             {
               "fullName": "Albon",
