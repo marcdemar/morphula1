@@ -105,7 +105,7 @@
             {
               "fullName": "Albon",
               "abbrev": "ALB",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2022/14-Francorchamps/Race/2022_14_alb_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2022/14%20-%20Francorchamps%20Belgian%20Grand%20Prix/Race/2022_14_alb_tel_enhanced.csv"
             }			
           ]
         },
