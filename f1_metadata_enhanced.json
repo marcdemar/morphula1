@@ -141,109 +141,109 @@
       "year": 2025,
       "races": [
         {
-          "name": "Qatar - Losail",
+          "name": "Qatar - Losail (github)",
 		  "weekend": 23,
           "date": "2025-11-30",
           "drivers": [
             {
               "fullName": "Albon",
               "abbrev": "ALB",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_alb_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_alb_tel_enhanced.csv"
             },			
             {
               "fullName": "Fernando Alonso",
               "abbrev": "ALO",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_alo_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_alo_tel_enhanced.csv"
             },			
             {
               "fullName": "Antonelli",
               "abbrev": "ANT",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_ant_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_ant_tel_enhanced.csv"
             },			
             {
               "fullName": "Oliver Bearman",
               "abbrev": "BEA",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_bea_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_bea_tel_enhanced.csv"
             },			
             {
               "fullName": "Bortoletto",
               "abbrev": "BOR",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_bor_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_bor_tel_enhanced.csv"
             },			
             {
               "fullName": "Colapinto",
               "abbrev": "COL",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_col_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_col_tel_enhanced.csv"
             },			
             {
               "fullName": "Pierre Gasly",
               "abbrev": "GAS",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_gas_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_gas_tel_enhanced.csv"
             },			
             {
               "fullName": "Isak Hadjar",
               "abbrev": "HAD",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_had_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_had_tel_enhanced.csv"
             },			
             {
               "fullName": "Louis Hamilton",
               "abbrev": "HAM",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_ham_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_ham_tel_enhanced.csv"
             },			
             {
               "fullName": "Nico Hulkenberg",
               "abbrev": "HUL",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_hul_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_hul_tel_enhanced.csv"
             },			
             {
               "fullName": "Liam Lawson",
               "abbrev": "LAW",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_law_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_law_tel_enhanced.csv"
             },			
             {
               "fullName": "Charles Leclerc",
               "abbrev": "LEC",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_lec_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_lec_tel_enhanced.csv"
             },			
             {
               "fullName": "Lando Norris",
               "abbrev": "NOR",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_nor_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_nor_tel_enhanced.csv"
             },			
             {
               "fullName": "Esteban Ocon",
               "abbrev": "OCO",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_oco_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_oco_tel_enhanced.csv"
             },			
             {
               "fullName": "Oscar Piastri",
               "abbrev": "PIA",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_pia_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_pia_tel_enhanced.csv"
             },			
             {
               "fullName": "George Russell",
               "abbrev": "RUS",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_rus_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_rus_tel_enhanced.csv"
             },			
             {
               "fullName": "Carlos Sainz",
               "abbrev": "SAI",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_sai_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_sai_tel_enhanced.csv"
             },			
             {
               "fullName": "Lance Stroll",
               "abbrev": "STR",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_str_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_str_tel_enhanced.csv"
             },			
             {
               "fullName": "Yuki Tsunoda",
               "abbrev": "TSU",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_tsu_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_tsu_tel_enhanced.csv"
             },			
             {
               "fullName": "Max Verstappen",
               "abbrev": "VER",
-              "telemetryCsvUrl": "https://marcdemar001.s3.eu-central-1.amazonaws.com/morphula1/Telemetry/Seasons/2025/23-Qatar/Race/2025_23_ver_tel_enhanced.csv?v=1"
+              "telemetryCsvUrl": "https://raw.githubusercontent.com/marcdemar/morphula1/refs/heads/main/TelemetryData/2025/23%20-%20Qatar/Race/2025_23_ver_tel_enhanced.csv"
             }
           ]
         },
